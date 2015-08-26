@@ -1,0 +1,23 @@
+<label id="signupText">View Users <a href="#/view-users" style="color:#ff9933">View</a></label>
+<br><br>
+<div>
+  <div>
+    <form ng-submit="loginUser()" name="logUser">
+      <div class="form-group col-lg-3">
+      <input type="text" class="form-control" placeholder="Username" ng-model="username" required></input>
+      </div>
+      <div class="form-group col-lg-3">
+        <input type="password" class="form-control" placeholder="Password" ng-model="password" required></input>
+      </div>
+      <div class="form-group col-lg-3">
+        <input type="text" class="form-control" placeholder="Auth Token" ng-model="auth_token" required></input>
+      </div>
+      <div> 
+        <button type="submit" class="btn btn-primary" ng-disabled="logUser.$invalid">Create</button>
+      </div>
+
+      <div ng-show="message" class="error-message">{{message}}</div>
+
+    </form>
+  </div>
+</div>

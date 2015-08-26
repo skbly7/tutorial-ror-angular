@@ -1,0 +1,28 @@
+<label id="signupText">Create User <a href="#/create" style="color:#ff9933">Create</a></label>
+<hr/>
+<div ng-show="message">{{message}}</div>
+
+<div class="table-responsive">
+  <table class="table table-bordered table-hover table-striped">
+    <thead>
+      <tr>
+        <th class="info">Id</th>
+        <th class="warning">Email</th>
+        <th class="success">Password</th>
+        <th class="danger">Auth Token</th>
+        <th class="info">Created</th>
+        <th class="info">Updated</th>
+      </tr> 
+    </thead>
+    <tbody>
+        <tr ng-repeat="data in users">
+          <td>{{data.id}}</td>
+          <td>{{data.email}}</td>
+          <td>{{data.password}}</td>
+          <td>{{data.auth_token}}</td>
+          <td>{{data.created_at}}</td>
+          <td>{{data.updated_at}}</td>
+        </tr>
+    </tbody>
+  </table>
+</div>

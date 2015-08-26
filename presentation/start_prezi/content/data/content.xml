@@ -1,0 +1,860 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-64597.855794669995" y="-44921.31283179589" width="129195.71158933998" height="89842.6256635918"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <spellcheck active="true"/>
+      <mode type="normal"/>
+    </settings>
+    <object id="6" type="image" x="-7597.354635932893" y="-6901.3825501829415" r="0" s="1.6054586575740386">
+      <source w="4000" h="896">1851873385<url>1851873385.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F6%2F9%2F2%2F4666f7276cc5b1dc930dedb69b1acc604acbf.png</sourceUrl>
+      <image>
+        <transform>
+          <flip/>
+        </transform>
+      </image>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    <resource><id>1851873385</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/9/2/4666f7276cc5b1dc930dedb69b1acc604acbf.png</url></resource></object>
+    <object id="7" type="image" x="-6074.830208900082" y="-5546.87782336001" r="0" s="3.266606466906618">
+      <source w="4000" h="896">1851873385<url>1851873385.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F6%2F9%2F2%2F4666f7276cc5b1dc930dedb69b1acc604acbf.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    <resource><id>1851873385</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/9/2/4666f7276cc5b1dc930dedb69b1acc604acbf.png</url></resource></object>
+    <object id="4" type="image" x="-7324.190532132565" y="-2261.6435749954235" r="0" s="7.873430330820051">
+      <source w="4000" h="896">1851873385<url>1851873385.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F6%2F9%2F2%2F4666f7276cc5b1dc930dedb69b1acc604acbf.png</sourceUrl>
+      <image>
+        <transform>
+          <flip/>
+        </transform>
+      </image>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    <resource><id>1851873385</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/9/2/4666f7276cc5b1dc930dedb69b1acc604acbf.png</url></resource></object>
+    <object id="2" type="image" x="-4862.904154698661" y="3508.292036586975" r="0" s="14.424768410948642">
+      <source w="4000" h="896">1851873385<url>1851873385.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F6%2F9%2F2%2F4666f7276cc5b1dc930dedb69b1acc604acbf.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    <resource><id>1851873385</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/9/2/4666f7276cc5b1dc930dedb69b1acc604acbf.png</url></resource></object>
+    <object id="0_30863873" type="shape" x="-64405.04597855787" y="-44644.866422510044" r="0" s="9.518765256707594" class="poly3">
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="1_30863873" type="shape" x="64222.285685629075" y="-44548.17723373295" r="0" s="18.656779903146887" class="poly3">
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="3_30863873" type="shape" x="-64281.77601991379" y="44634.24833788466" r="0" s="6.799118040505425" class="poly3">
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="4_30863873" type="shape" x="64345.55564427313" y="44730.93752666175" r="0" s="9.518765256707594" class="poly3">
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="5_30863873" type="persistentgroup" x="-7.275957614183426e-12" y="7.275957614183426e-12" r="0" s="150.84146128352594">
+      <m o="6"/>
+      <m o="7"/>
+      <m o="4"/>
+      <m o="2"/>
+      <m o="0_30863873"/>
+      <m o="1_30863873"/>
+      <m o="3_30863873"/>
+      <m o="4_30863873"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="8" type="button" x="1698.3958729049918" y="-1986.3253750646331" r="0" s="39.27774620539441" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1064.8735675726869</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="3_24309637" type="button" x="-7813.141207230337" y="-8507.734792544887" r="0" s="1.8284741926960577" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="9" type="button" x="-7813" y="-3785.5" r="0" s="1.5987703558999653" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1254.2644026256494</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="38_24309637" type="image" x="-7529.2959669018755" y="-8597.429084019852" r="0" s="0.32947357664945837">
+      <source w="1273" h="1813">1855942261<url>1855942261.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F0%2F4%2F7%2Fe5ca1cf75a07c1363dccc034f50315043566c.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    <resource><id>1855942261</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/4/7/e5ca1cf75a07c1363dccc034f50315043566c.png</url></resource></object>
+    <object id="39_24309637" type="image" x="-7884.24378544529" y="-8060.460872830074" r="0" s="0.22417543325794614">
+      <source w="1273" h="1813">1855942564<url>1855942564.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2Ff%2F8%2F2%2Faded6e56854fe294899827a8a6e77316a89cb.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    <resource><id>1855942564</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/8/2/aded6e56854fe294899827a8a6e77316a89cb.png</url></resource></object>
+    <object id="1_24309637" type="image" x="10642.56742896409" y="211.57502935675157" r="0" s="8.421200041521114">
+      <source w="1920" h="2123">1874493880<url>1874493880.png</url></source>
+      <sourceUrl>sign3.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    <resource><id>1874493880</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/6/2/804d90bef310293f8b4e6041dd1231980c25f.png</url></resource></object>
+    <object id="10_24309637" type="text" x="-7808.969263683368" y="-4226.440161621574" r="0" s="5.039341027171569" class="strong">
+      <height>29.28</height>
+      <width>355.03722582655143</width>
+      <p align="center">
+        <text><![CDATA[Benefits to you]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="11_24309637" type="text" x="-7797.37068663949" y="-3907.3599992730765" r="0" s="2.9076743375987375" class="body">
+      <height>137.98828125</height>
+      <width>603.8413254010717</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Rendering]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Organized]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Scalability]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Development time]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Security and Permissions]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="12_24309637" type="button" x="-2554.2897896856593" y="-1739.0489719152572" r="0" s="1.6807334631430273" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1254.2644026256494</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="13_24309637" type="text" x="-2550.0524122640254" y="-2200.4719086478576" r="0" s="5.297689605827769" class="strong">
+      <height>29.28</height>
+      <width>355.03722582655143</width>
+      <p align="center">
+        <text><![CDATA[Benefits to users]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="14_24309637" type="text" x="-2566.4111676594953" y="-1878.199451574224" r="0" s="3.056740163519902" class="body">
+      <height>110.390625</height>
+      <width>603.8413254010717</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[User Experience]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Animations]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Dynamic content refresh]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Local storage - save data ?]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="18_24309637" type="button" x="-4543.8" y="2480.6" r="0" s="5.468022807779805" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1254.2644026256494</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="19_24309637" type="text" x="-4557.585693505097" y="963.8313265967706" r="0" s="17.235265572111196" class="strong">
+      <height>29.28</height>
+      <width>355.03722582655143</width>
+      <p align="center">
+        <text><![CDATA[Why ?]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="0" type="image" x="-4538.817380401023" y="3267.027766262117" r="0" s="10.380762457448167">
+      <source w="550" h="250">3701371586<url>3701371586.png</url></source>
+      <sourceUrl>https%3A%2F%2Flh6.googleusercontent.com%2F-u9hFxEK0OS8%2FT6a9yHaniHI%2FAAAAAAAAF_Y%2FprEsvdWrNtI%2Fs550%2Frest.png</sourceUrl>
+    <resource><id>3701371586</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/a/a/4/77a7e7eae7c07409b43f9ed904515b94b8007.png</url></resource></object>
+    <object id="20_24309637" type="text" x="-4536.957959778349" y="1674.180445580428" r="0" s="9.944661243506774" class="body">
+      <height>55.1953125</height>
+      <width>603.8413254010717</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[To learn API concepts]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Dividing Frontend & Backend]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="21_24309637" type="button" x="-8680.725566889336" y="-5375.283783979304" r="0" s="0.9207648873904366" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1254.2644026256494</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="22_24309637" type="text" x="-8683.046951231363" y="-5628.067492816428" r="0" s="2.902260638172579" class="strong">
+      <height>29.28</height>
+      <width>355.03722582655143</width>
+      <p align="center">
+        <text><![CDATA[HTTP verbs]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="25_24309637" type="button" x="-5659.874129275831" y="-6099.168967028714" r="0" s="0.5894286703111833" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1254.2644026256494</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="26_24309637" type="text" x="-5658.388092498431" y="-6260.98874036789" r="0" s="1.8578853866841294" class="strong">
+      <height>29.28</height>
+      <width>355.03722582655143</width>
+      <p align="center">
+        <text><![CDATA[HTTP Status Codes]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="27_24309637" type="text" x="-5659.660267864633" y="-6048.841725634108" r="0" s="1.0719904908069298" class="body">
+      <height>262.44</height>
+      <width>603.8413254010717</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Informational 1xx (Continue)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Successful 2xx]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[200 OK]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[201 Created]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[202 Accepted...]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Redirection 3xx]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[301 Moved permanently]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[304 Not modified]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[307 Temp. redirect]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="28_24309637" type="button" x="-5497.428155315022" y="-6741.813092429879" r="0" s="0.33555571697902187" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1254.2644026256494</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="32_24309637" type="button" x="-7806.2937783294465" y="-7158.417539600588" r="0" s="0.3319370059010914" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1254.2644026256494</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="33_24309637" type="text" x="-7807.130640571467" y="-7249.598727097038" r="0" s="1.0462689441925856" class="strong">
+      <height>29.16</height>
+      <width>355.03722582655143</width>
+      <p align="center">
+        <text color="16711680"><![CDATA[Example (UI)]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="34_24309637" type="text" x="-7805.87922157067" y="-7192.232490636295" r="0" s="0.6036918999631201" class="body">
+      <height>58.32</height>
+      <width>603.8413254010717</width>
+      <p>
+        <text color="1531238"><![CDATA[http://embed.plnkr.co/tg25kr/preview]]></text>
+      </p>
+      <p>
+        <text color="14728010"><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="35_24309637" type="button" x="-7897.775297524588" y="-7520.322851625822" r="0" s="0.18896834446177638" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1254.2644026256494</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="18" type="text" x="-7806.059092680693" y="-8498.101199656143" r="0" s="15.616941205961464" class="head">
+      <height>27.59765625</height>
+      <width>103.01197126888044</width>
+      <p align="center">
+        <text><![CDATA[GOAL!]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="2_24309637" type="shape" x="10637.333452453939" y="-3875.088684739143" r="-3.351705646641764e-15" s="33.86887258654326" class="line5">
+      <geom type="line">
+        <sp>-234.0175163417477 0</sp>
+        <ep>234.0175163417477 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="31_24309637" type="image" x="-8084.192985441173" y="-8870.58076602005" r="0" s="0.478019228671675">
+      <source w="1273" h="1813">1855941910<url>1855941910.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2Fb%2Ff%2F7%2Fee32ed28b452de19426cd728dc4b71003beeb.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    <resource><id>1855941910</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/f/7/ee32ed28b452de19426cd728dc4b71003beeb.png</url></resource></object>
+    <object id="9_24309637" type="text" x="10630.216223782256" y="-6146.538388766009" r="0" s="59.447715030665506" class="head">
+      <height>27.59765625</height>
+      <width>262.2172676112337</width>
+      <p align="center">
+        <text><![CDATA[Why ?]]></text>
+      </p>
+    </object>
+    <object id="15_24309637" type="text" x="10595.497472276104" y="-2042.3268802799287" r="0" s="41.017022075698016" class="head">
+      <height>27.59765625</height>
+      <width>355.03722582655143</width>
+      <p align="center">
+        <text><![CDATA[Ruby on Rails + AngularJS]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="4_24309637" type="button" x="10619.337983370222" y="-4205.85987708563" r="0" s="15.038716222621836" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1063.7757472510452</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>the-road-ahead2</parentTemplate>
+      </meta>
+    </object>
+    <object id="1" type="text" x="-8693.75" y="-5332.3" r="0" s="2.902260638172579" class="body">
+      <height>137.98828125</height>
+      <width>-93.36328125</width>
+      <p align="center">
+        <text><![CDATA[GET]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[POST]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[PUT]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[PATCH]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[DELETE]]></text>
+      </p>
+    </object>
+    <object id="3" type="text" x="-5497.428155315022" y="-6835.07923053333" r="0" s="1.0576751596838843" class="strong">
+      <height>29.16</height>
+      <width>355.03722582655143</width>
+      <p align="center">
+        <text color="16758141"><![CDATA[HTTP Status Codes (contd.)]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="5" type="text" x="-5498.152391747063" y="-6739.875043667859" r="0" s="0.6102732287309778" class="body">
+      <height>174.96</height>
+      <width>603.8413254010717</width>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Server error 4xx]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="0"><![CDATA[401 Unauthorized]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="0"><![CDATA[404 Not found...]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Client error 5xx]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="0"><![CDATA[500 Internal server error]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="0"><![CDATA[503 Service unavailable]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="11" type="button" x="4760.15" y="-6794.4" r="0" s="2.318638433472314" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="4_24309637"/>
+    </s>
+    <s>
+      <eagle o="8"/>
+    </s>
+    <s>
+      <eagle o="18_24309637"/>
+    </s>
+    <s>
+      <eagle o="21_24309637"/>
+    </s>
+    <s>
+      <eagle o="25_24309637"/>
+    </s>
+    <s>
+      <eagle o="28_24309637"/>
+    </s>
+    <s>
+      <eagle o="32_24309637"/>
+    </s>
+    <s>
+      <eagle o="9"/>
+    </s>
+    <s>
+      <eagle o="12_24309637"/>
+    </s>
+    <s>
+      <eagle o="3_24309637"/>
+    </s>
+    <s>
+      <eagle o="8"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Cabin-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+.line1
+{
+	color: #737373;
+	gradEndColor: #737373;
+	gradStartColor: #737373;
+}
+
+.line2
+{
+	color: #595959;
+	gradEndColor: #595959;
+	gradStartColor: #595959;
+}
+
+.line3
+{
+	color: #fc6a4b;
+	gradEndColor: #fc6a4b;
+	gradStartColor: #fc6a4b;
+}
+
+.line4
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.line5
+{
+	color: #191919;
+	gradEndColor: #191919;
+	gradStartColor: #191919;
+}
+
+.poly1
+{
+	gradEndColor: #737373;
+	gradStartColor: #737373;
+}
+
+.poly2
+{
+	gradEndColor: #595959;
+	gradStartColor: #595959;
+}
+
+.poly3
+{
+	gradEndColor: #fc6a4b;
+	gradStartColor: #fc6a4b;
+}
+
+.poly4
+{
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly5
+{
+	gradEndColor: #191919;
+	gradStartColor: #191919;
+}
+
+Background
+{
+	gradEnd: #222;
+	gradStart: #222;
+}
+
+Grid
+{
+	color: #7d9093;
+}
+
+ZArrow
+{
+	borderColor: #f6f6f6;
+	borderThickness: 1;
+	gradEndColor: #737373;
+	gradStartColor: #737373;
+	lockTintAlpha: 0;
+	thickness: 7;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	borderColor: #f6f6f6;
+	borderThickness: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZFrame.bracket
+{
+	borderColor: #737373;
+	borderThickness: 0;
+	gradEndAlpha: .8;
+	gradEndColor: #737373;
+	gradStartAlpha: .8;
+	gradStartColor: #737373;
+	padding: 1.03;
+	radius: 10;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradEndAlpha: .8;
+	gradEndColor: #999;
+	gradStartAlpha: .8;
+	gradStartColor: #999;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0.8;
+	borderColor: #737373;
+	borderThickness: 20;
+	gradEndAlpha: 0.8;
+	gradEndColor: #333;
+	gradStartAlpha: 0.8;
+	gradStartColor: #333;
+	padding: 1.03;
+	radius: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #f6f6f6;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #404040;
+	background-padding: 5;
+}
+
+ZLabel.head
+{
+	color: #f6f6f6;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #404040;
+	background-padding: 5;
+}
+
+ZLabel.strong
+{
+	color: #f6f6f6;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #404040;
+	background-padding: 5;
+}
+
+ZLine
+{
+	borderColor: #f6f6f6;
+	borderThickness: 1;
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.5;
+	color: #318bff;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	borderColor: #f6f6f6;
+	borderThickness: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 30;
+}
+
+]]></style>
+  <hash>-438185af</hash>
+<sync><oid>tlvco6l9qiso</oid><title>why</title><hash>-438185af</hash></sync><config>WE7d+GImoCn0sypJxw6MTDvHeh9R0V0YEWBRjME2h37mY5m4wfq+Ypf2wipVyrNn8JK0E88D+ux+7HtO/N2yaTTL4LBj475zAFbeu1na5EiAsr5zkFGLFsSqfXe+tCVTb7bg1eMdg+gXN9TpaybkMMGlablVpL0FEfp8hAJN9Qt7cfqYxVD8Q0ulHouqdK1RU7u11d57b5Oqj/GgLXU++r7w56EhticnYZxno9+9L6kwAoHoheJ15DoBeYrPdoqhsSPjf7SmGIM7dmW/Y/ixNY8GCCa3nou5EInEYcp2xFlyRJbvxn/KhVq76WWa2dfMcCs3iiIbMcDZO8ZMJ/Rzkw==</config></zuiprezi>

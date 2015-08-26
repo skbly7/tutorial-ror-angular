@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <title>Angularjs</title>
+    <script src="angular.min.js"></script>
+    <script src="angular-ui-router.js"></script>
+  </head>
+  <link rel="stylesheet" href="bootstrap.min.css">
+  <script src="appCore.js"></script>
+  <script src="viewUsersCtrl.js"></script>
+  <script src="createUserCtrl.js"></script>
+  <body>
+    <div ng-app="ssad" class="container">
+      <div class="page-header">
+        <h1>Angularjs Tutorial</h1>
+      </div>
+      
+      <!-- HERE'S THE CONTAINER WHERE ALL THE TEMPLATES GO -->
+      <div class="row" id="holder">
+        <div class="col-md-3 col-lg-12">
+          <div ui-view></div>
+        </div>
+      </div>
+
+    </div>
+
+  </body>
+</html>
